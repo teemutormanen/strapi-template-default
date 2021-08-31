@@ -84,6 +84,21 @@
               "title": "Facile à personnaliser",
               "description": "On utilise Tailwind pour les styles. Vous pouvez changez le thème de votre site sans avoir besoin d'aller dans le code.",
               "icon": null
+            },
+			{
+              "title": "Visualisez vos changments",
+              "description": "Grace à un mode preview, vous pouvez voir vos pages avant de les publier.",
+              "icon": null
+            },
+            {
+              "title": "100% responsive",
+              "description": "Ce starter marche sur toutes les tailles d'écrans.",
+              "icon": null
+            },
+            {
+              "title": "Facile à personnaliser",
+              "description": "On utilise Tailwind pour les styles. Vous pouvez changez le thème de votre site sans avoir besoin d'aller dans le code.",
+              "icon": null
             }
           ]
         },

@@ -84,6 +84,21 @@
               "title": "Easy to customize",
               "description": "We use Tailwind for styling. You can change your site's theme without digging through the code.",
               "icon": null
+            },
+			{
+              "title": "Preview your changes",
+              "description": "Thanks to an integrated Preview Mode, you can visualize your pages before publishing them.",
+              "icon": null
+            },
+            {
+              "title": "Fully responsive",
+              "description": "This starter works well on all screens, whether it's mobile, tablet or desktop.",
+              "icon": null
+            },
+            {
+              "title": "Easy to customize",
+              "description": "We use Tailwind for styling. You can change your site's theme without digging through the code.",
+              "icon": null
             }
           ]
         },
