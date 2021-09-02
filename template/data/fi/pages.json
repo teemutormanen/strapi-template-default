@@ -1,9 +1,9 @@
 {
-  "pagesFR": [
+  "pagesFI": [
     {
       "id": 5,
       "slug": "",
-      "locale": "fr",
+      "locale": "fi",
       "localizations": [
         {
           "id": 1,
@@ -14,7 +14,7 @@
       "status": "published",
       "metadata": {
         "metaTitle": "Strapi default site starter",
-        "metaDescription": "Construire un site modifiable avec Strapi",
+        "metaDescription": "Rakennamme huippusivustoja Strapilla",
         "twitterCardType": "summary",
         "twitterUsername": null,
         "shareImage": null
@@ -22,21 +22,21 @@
       "contentSections": [
         {
           "__component": "sections.hero",
-          "title": "La meilleure façon de faire votre site Default",
-          "label": "Nouveau starter Strapi",
-          "description": "Commencer vite avec votre site default",
-          "smallTextWithLink": "Vous voulez construire votre propre starter? Guide à venir",
+          "title": "Paras tapa luoda uusi Strapi Default sivusto helposti",
+          "label": "Uusi Strapi aloitusmalli",
+          "description": "Aloita uusi sivusto sekunneisssa uuden Strapi Default sivuston avulla.",
+          "smallTextWithLink": "Haluatko rakentaa oman sivustosi tyhjästä?",
           "buttons": [
             {
-              "url": "https://gitlab.com/tmutrmn/strapi-template-default",
+              "url": "https://github.com/teemutormanen/strapi-template-default",
               "newTab": false,
-              "text": "Commencer",
+              "text": "Aloita nyt",
               "type": "primary"
             },
             {
-              "url": "https://gitlab.com/tmutrmn/strapi-template-default",
+              "url": "https://github.com/teemutormanen/strapi-template-default",
               "newTab": true,
-              "text": "Voir le code",
+              "text": "Katso koodia",
               "type": "secondary"
             }
           ],
@@ -46,22 +46,22 @@
           "__component": "sections.feature-rows-group",
           "features": [
             {
-              "title": "Les équipes marketing peuvent maintenant faire leurs propres pages",
-              "description": "Grace à une liste pré-construite de blocs UI, les équipes marketing peuvent faire la mise en page exactement comme elles veulent",
+              "title": "Anna markkinointiosaston itse rakentaa haluamansa sivusto",
+              "description": "Thanks to a pre-built list of UI sections, marketers can design exactly the pages they want.",
               "link": {
                 "url": "#",
                 "newTab": false,
-                "text": "Voir la liste de blocs UI"
+                "text": "Katso list UI palikoista"
               },
               "media": null
             },
             {
-              "title": "Laissez vos développeurs tranquilles",
-              "description": "Vous pouvez publier, modifier, et supprimer des pages sans l'aide d'un développeur.  Votre équipe technique peut enfin se concentrer sur d'autre tâches.",
+              "title": "Ja anna kehittäjien olla rauhassa",
+              "description": "You can publish, edit and delete pages without help from developers. Your technical team can finally focus on their tasks.",
               "link": {
                 "url": "#",
                 "newTab": false,
-                "text": "Voir comment créer une page"
+                "text": "Katso kuinka sivu luodaan"
               },
               "media": null
             }
@@ -71,41 +71,41 @@
           "__component": "sections.feature-columns-group",
           "features": [
             {
-              "title": "Visualisez vos changments",
-              "description": "Grace à un mode preview, vous pouvez voir vos pages avant de les publier.",
+              "title": "Preview your changes 1",
+              "description": "Thanks to an integrated Preview Mode, you can visualize your pages before publishing them.",
               "icon": null
             },
             {
-              "title": "100% responsive",
-              "description": "Ce starter marche sur toutes les tailles d'écrans.",
+              "title": "Fully responsive 2",
+              "description": "This starter works well on all screens, whether it's mobile, tablet or desktop.",
               "icon": null
             },
             {
-              "title": "Facile à personnaliser",
-              "description": "On utilise Tailwind pour les styles. Vous pouvez changez le thème de votre site sans avoir besoin d'aller dans le code.",
+              "title": "Easy to customize 3",
+              "description": "We use Tailwind for styling. You can change your site's theme without digging through the code.",
               "icon": null
             },
-			{
-              "title": "Visualisez vos changments",
-              "description": "Grace à un mode preview, vous pouvez voir vos pages avant de les publier.",
-              "icon": null
-            },
-            {
-              "title": "100% responsive",
-              "description": "Ce starter marche sur toutes les tailles d'écrans.",
+			      {
+              "title": "Preview your changes 4",
+              "description": "Thanks to an integrated Preview Mode, you can visualize your pages before publishing them.",
               "icon": null
             },
             {
-              "title": "Facile à personnaliser",
-              "description": "On utilise Tailwind pour les styles. Vous pouvez changez le thème de votre site sans avoir besoin d'aller dans le code.",
+              "title": "Fully responsive 5",
+              "description": "This starter works well on all screens, whether it's mobile, tablet or desktop.",
+              "icon": null
+            },
+            {
+              "title": "Easy to customize 6",
+              "description": "We use Tailwind for styling. You can change your site's theme without digging through the code.",
               "icon": null
             }
           ]
         },
         {
           "__component": "sections.testimonials-group",
-          "title": "Ici, les témoignages des vos clients.",
-          "description": "Dans cette partie, vous pouvez mettre en avant vos clients.  Mettez des citations, et montrez les logos des entreprises qui aiment votre produit.",
+          "title": "Your customer testimonials here",
+          "description": "This section is where you can showcase your customers. Insert quotes, and show the logos of companies who like your product",
           "link": {
             "url": "#",
             "newTab": false,
@@ -128,8 +128,8 @@
           "testimonials": [
             {
               "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-              "authorName": "Nom d'un(e) Client(e) ici",
-              "authorTitle": "Un(e) Client(e) Satisfait(e)",
+              "authorName": "Your Customer Name",
+              "authorTitle": "A happy customer",
               "link": "#",
               "logo": null,
               "picture": null
@@ -138,29 +138,29 @@
         },
         {
           "__component": "sections.lead-form",
-          "title": "S'inscrire à notre Newsletter",
+          "title": "Tilaa uutiskirjeemme",
           "emailPlaceholder": "email@company.com",
           "submitButton": {
             "__component": "links.button",
-            "text": "S'inscrire",
+            "text": "Tilaa",
             "type": "primary"
           },
           "location": "Home Page Bottom"
         },
         {
           "__component": "sections.bottom-actions",
-          "title": "Start building your website",
+          "title": "Aloita sivustosi rakentaminen nyt",
           "buttons": [
             {
               "url": "https://gitlab.com/tmutrmn/strapi-template-default",
               "newTab": false,
-              "text": "Commencer",
+              "text": "Aloita nyt",
               "type": "primary"
             },
             {
               "url": "https://gitlab.com/tmutrmn/strapi-template-default",
               "newTab": false,
-              "text": "Voir le code",
+              "text": "Katso koodia",
               "type": "secondary"
             }
           ]
@@ -170,18 +170,18 @@
     {
       "id": 6,
       "slug": "pricing",
-      "locale": "fr",
+      "locale": "fi",
       "localizations": [
         {
           "id": 2,
           "locale": "en"
         }
       ],
-      "shortName": "Pricing",
+      "shortName": "Hinnoittelu",
       "status": "published",
       "metadata": {
-        "metaTitle": "Pricing",
-        "metaDescription": "Les différentes offres",
+        "metaTitle": "Hinnoittelu",
+        "metaDescription": "Katso eri hinnoitteluvaihtoehdot",
         "twitterCardType": "summary",
         "twitterUsername": null,
         "shareImage": null
@@ -189,59 +189,59 @@
       "contentSections": [
         {
           "__component": "sections.pricing",
-          "title": "Tableau de tarifs",
+          "title": "Clear pricing table",
           "plans": [
             {
               "name": "Hobby",
-              "description": "Parfait pour des projets personnels",
+              "description": "Perfect for side projects",
               "isRecommended": null,
               "price": 0,
-              "pricePeriod": "toujours",
+              "pricePeriod": "forever",
               "features": [
                 {
-                  "name": "Voilà une feature"
+                  "name": "A cool feature"
                 },
                 {
-                  "name": "Une autre"
+                  "name": "Another cool feature"
                 },
                 {
-                  "name": "Encore une autre"
+                  "name": "Some other cool feature"
                 }
               ]
             },
             {
               "name": "Premium",
-              "description": "Un plan plus avancé",
+              "description": "A more advanced plan for SMBs",
               "isRecommended": true,
               "price": 20,
-              "pricePeriod": "par mois",
+              "pricePeriod": "per month",
               "features": [
                 {
-                  "name": "Fonctionnalité 1"
+                  "name": "The coolest feature"
                 },
                 {
-                  "name": "Fonctionnalité 2"
+                  "name": "Nice feature"
                 },
                 {
-                  "name": "Fonctionnalité 3"
+                  "name": "Fun feature"
                 }
               ]
             },
             {
-              "name": "Entreprise",
-              "description": "Pour les besoin des grands entreprises",
+              "name": "Enterprise",
+              "description": "For large companies needs",
               "isRecommended": null,
               "price": 299,
-              "pricePeriod": "par mois",
+              "pricePeriod": "per month",
               "features": [
                 {
-                  "name": "Fonctionnalité 1"
+                  "name": "Amazing feature"
                 },
                 {
-                  "name": "Fonctionnalité 2"
+                  "name": "Wow effect feature"
                 },
                 {
-                  "name": "Fonctionnalité 3"
+                  "name": "Mesmerizing feature"
                 }
               ]
             }
@@ -252,7 +252,7 @@
     {
       "id": 7,
       "slug": "secret",
-      "locale": "fr",
+      "locale": "fi",
       "localizations": [
         {
           "id": 3,
@@ -262,7 +262,7 @@
       "shortName": "Secret",
       "status": "draft",
       "metadata": {
-        "metaTitle": "Page secrète",
+        "metaTitle": "Secret page",
         "metaDescription": "Preview-only page",
         "twitterCardType": "summary",
         "twitterUsername": null,
@@ -271,25 +271,25 @@
       "contentSections": [
         {
           "__component": "sections.rich-text",
-          "content": "## Page secrète. \n\n Vous seul pouvez voir cette page en Preview Mode"
+          "content": "## Secret page\n\nYou can only view this page in Preview Mode."
         }
       ]
     },
     {
       "id": 8,
       "slug": "contact",
-      "locale": "fr",
+      "locale": "fi",
       "localizations": [
         {
           "id": 4,
           "locale": "en"
         }
       ],
-      "shortName": "Contact",
+      "shortName": "Yhteystiedot",
       "status": "published",
       "metadata": {
-        "metaTitle": "Nous Contacter",
-        "metaDescription": "Contactez notre équipe",
+        "metaTitle": "Yhteystiedot",
+        "metaDescription": "Ota yhteyttä tiimiimme",
         "twitterCardType": "summary",
         "twitterUsername": null,
         "shareImage": null
@@ -297,22 +297,22 @@
       "contentSections": [
         {
           "__component": "sections.rich-text",
-          "content": "# Contactez nous\n\n> Ceci est un exemple d'une page qui repose presque entièrement sur le composant RichText. Vous pouvez l'utiliser pour des articles de blog, ou pour des pages comportant beaucoup de texte, comme par exemple les conditions d'utilisation.\n\nNous aimerions beaucoup avoir vos retours.\n\n## Social media\n\n* [Twitter](#)\n* [Twitter](#)\n* [Twitter](#)\n\n## Postal address\n\n404 Headless Street\n__92210__ **Saint Cloud**, *France*\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          "content": "# Get in touch\n\n> This is an example of a page that relies almost entirely on the RichText section. It's useful for blog articles, or content-heavy pages like legal terms.\n\nWe'd love to hear from you.\n\n## Social media\n\n* [Twitter](#)\n* [Twitter](#)\n* [Twitter](#)\n\n## Postal address\n\n404 Headless Street\n__92210__ **Saint Cloud**, *France*\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         },
         {
           "__component": "sections.bottom-actions",
-          "title": "Get in touch",
+          "title": "Ota yhteyttä",
           "buttons": [
             {
               "url": "#",
               "newTab": false,
-              "text": "Envoyer un mail",
+              "text": "Lähetä sähköpostia",
               "type": "primary"
             },
             {
               "url": "#",
               "newTab": false,
-              "text": "DM nous sur Twitter",
+              "text": "Tai soita meille",
               "type": "secondary"
             }
           ]

@@ -7,7 +7,7 @@
       "localizations": [
         {
           "id": 5,
-          "locale": "fr"
+          "locale": "fi"
         }
       ],
       "shortName": "Home",
@@ -28,13 +28,13 @@
           "smallTextWithLink": "Want to build your own from scratch? Tutorial coming soon",
           "buttons": [
             {
-              "url": "https://gitlab.com/tmutrmn/strapi-template-default",
+              "url": "https://github.com/teemutormanen/strapi-template-default",
               "newTab": false,
               "text": "Get started",
               "type": "primary"
             },
             {
-              "url": "https://gitlab.com/tmutrmn/strapi-template-default",
+              "url": "https://github.com/teemutormanen/strapi-template-default",
               "newTab": true,
               "text": "See the code",
               "type": "secondary"
@@ -71,32 +71,32 @@
           "__component": "sections.feature-columns-group",
           "features": [
             {
-              "title": "Preview your changes",
+              "title": "Preview your changes 1",
               "description": "Thanks to an integrated Preview Mode, you can visualize your pages before publishing them.",
               "icon": null
             },
             {
-              "title": "Fully responsive",
+              "title": "Fully responsive 2",
               "description": "This starter works well on all screens, whether it's mobile, tablet or desktop.",
               "icon": null
             },
             {
-              "title": "Easy to customize",
+              "title": "Easy to customize 3",
               "description": "We use Tailwind for styling. You can change your site's theme without digging through the code.",
               "icon": null
             },
-			{
-              "title": "Preview your changes",
+			      {
+              "title": "Preview your changes 4",
               "description": "Thanks to an integrated Preview Mode, you can visualize your pages before publishing them.",
               "icon": null
             },
             {
-              "title": "Fully responsive",
+              "title": "Fully responsive 5",
               "description": "This starter works well on all screens, whether it's mobile, tablet or desktop.",
               "icon": null
             },
             {
-              "title": "Easy to customize",
+              "title": "Easy to customize 6",
               "description": "We use Tailwind for styling. You can change your site's theme without digging through the code.",
               "icon": null
             }
@@ -152,13 +152,13 @@
           "title": "Start building your website",
           "buttons": [
             {
-              "url": "https://gitlab.com/tmutrmn/strapi-template-default",
+              "url": "https://github.com/teemutormanen/strapi-template-default",
               "newTab": false,
               "text": "Get started",
               "type": "primary"
             },
             {
-              "url": "https://gitlab.com/tmutrmn/strapi-template-default",
+              "url": "https://github.com/teemutormanen/strapi-template-default",
               "newTab": false,
               "text": "See the code",
               "type": "secondary"
@@ -174,7 +174,7 @@
       "localizations": [
         {
           "id": 6,
-          "locale": "fr"
+          "locale": "fi"
         }
       ],
       "shortName": "Pricing",
@@ -256,7 +256,7 @@
       "localizations": [
         {
           "id": 7,
-          "locale": "fr"
+          "locale": "fi"
         }
       ],
       "shortName": "Secret",
@@ -282,7 +282,7 @@
       "localizations": [
         {
           "id": 8,
-          "locale": "fr"
+          "locale": "fi"
         }
       ],
       "shortName": "Contact",

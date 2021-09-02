@@ -1,17 +1,17 @@
 {
-  "globalFR": {
+  "globalFI": {
     "id": 2,
-    "locale": "fr",
+    "locale": "fi",
     "metaTitleSuffix": "Strapi Default",
     "metadata": {
       "metaTitle": "Strapi starter for Default Sites",
-      "metaDescription": "Créer votre site default avec Strapi",
+      "metaDescription": "Meta Description kuvaus teksti",
       "twitterCardType": "summary",
       "twitterUsername": "strapijs",
       "shareImage": null
     },
     "notificationBanner": {
-      "text": "Cette page a été crée avec le Strapi starter pour les sites Default.\n [Voir les autres starters Strapi](https://strapi.io/starters)",
+      "text": "Ilmoitusbanneri: lyhyt ja ytimekäs, ilmoittaa asian nopeasti yhdellä silmäyksellä",
       "type": "info"
       
     },
@@ -20,72 +20,72 @@
         {
           "url": "/pricing",
           "newTab": false,
-          "text": "tarifs"
+          "text": "Hinnoittelu"
         },
         {
           "url": "/contact",
           "newTab": false,
-          "text": "nous contacter"
+          "text": "Yhteystiedot"
         }
       ],
       "button": {
         "url": "#",
         "newTab": false,
-        "text": "S'inscrire",
+        "text": "Luo tili",
         "type": "secondary"
       },
       "logo" : null
     },
     "footer": {
-      "smallText": "© Copyright Mon Entreprise™",
+      "smallText": "© Copyright Molontum Oy",
       "columns": [
         {
-          "title": "Produit",
+          "title": "Tuotteet",
           "links": [
             {
               "url": "#",
               "newTab": false,
-              "text": "Fonctionnalités"
+              "text": "Ominaisuudet"
             },
             {
               "url": "#",
               "newTab": false,
-              "text": "S'inscrire"
+              "text": "Luo tili"
             }
           ]
         },
         {
-          "title": "Légal",
+          "title": "Tietoja",
           "links": [
             {
               "url": "#",
               "newTab": false,
-              "text": "Confidentialité"
+              "text": "Privacy policy"
             },
             {
               "url": "#",
               "newTab": false,
-              "text": "Mentions légales"
+              "text": "Terms & conditions"
             }
           ]
         },
         {
-          "title": "Entreprise",
+          "title": "Yhtiö",
           "links": [
             {
               "url": "#",
               "newTab": false,
-              "text": "Nous rejoindre"
+              "text": "Careers"
             },
             {
               "url": "#",
               "newTab": false,
-              "text": "L'équipe"
+              "text": "Tiimi"
             }
           ]
         },
         {
-          "title": "Réseaux sociaux",
+          "title": "Sosiaalinen media",
           "links": [
             {
               "url": "#",
